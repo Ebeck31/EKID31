@@ -1,0 +1,6 @@
+PS1='\[\033[1;31m\]By\033[1;33m\]GANTI NAMA KALIAN:#\[\033[1;32m\]'
+
+
+
+cowsay -f eyes "GANTI SESUKA HATI KALIAN" | lolcat
+toilet -f standard "NAMA KALIAN" -F gay 
